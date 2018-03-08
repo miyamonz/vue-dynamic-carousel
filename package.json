@@ -1,0 +1,10 @@
+{
+  "name": "vue-dynamic-carousel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Koichi Miyamoto <m5813k@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.13"
+  }
+}
